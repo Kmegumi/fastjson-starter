@@ -1,0 +1,2 @@
+# fastjson-starter
+将springboot中mvc和RestTemplate从默认jackson切换到fastjson的工具包

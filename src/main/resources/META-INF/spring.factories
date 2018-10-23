@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.megumi.fastjson.bootstater.FastJsonConfiguration,\
+com.megumi.fastjson.bootstater.RestTemplateConfiguration
